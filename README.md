@@ -13,7 +13,7 @@ To quickly run the script directly from this repository, you can execute the fol
 2. Execute the following command to download and run the script:
 
 ```powershell
-iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/<your-username>/PowerPlanUnhide/main/unhide.ps1'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/lawgATWIT/PowerPlanUnhide/refs/heads/main/unhide.ps1'))
 ```
 
 This will download the script and run it in one go. The script will automatically check and unhide any hidden power plan settings.
